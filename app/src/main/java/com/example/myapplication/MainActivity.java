@@ -16,6 +16,9 @@ import androidx.fragment.app.FragmentTransaction;
 
 public class MainActivity extends AppCompatActivity {
 
+
+
+    // комментарий
     private Button btn1;
     private Button btn2;
     private FragmentManager fm;
